@@ -4,47 +4,47 @@
         <img class="sidebar-image" src="@/assets/sidebar-image.png" />
     </div>
     <div class="socials">
-        <a href="https://www.instagram.com/lizardonthecamera/" target="_blank">
+        <a href="https://www.instagram.com/benedict.chacko/" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Instagram.webp" />
                 <div class="social-text"><u>I</u>nstagram</div>
             </div>
         </a>
-        <a href="https://www.reddit.com/user/satoshigekkouga2303" target="_blank">
+        <a href="https://www.reddit.com/user/i3enedict/" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Reddit.webp" />
                 <u>R</u>eddit
             </div>
         </a>
-        <a href="https://www.linkedin.com/in/don-chia" target="_blank">
+        <a href="https://www.linkedin.com/in/benedict-chacko-mathew-232770286/" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Linkedin.webp" />
                 <u>L</u>inkedIn
             </div>
         </a>
-        <a href="https://twitter.com/lizarDON2303" target="_blank">
+        <a href="https://x.com/BenedictChacko" target="_blank">
             <div class="bar">
-                <img class="social-image" src="@/assets/iPhone-Icons/Twitter.webp" />
-                <u>T</u>witter
+                <img class="social-image" src="@/assets/iPhone-Icons/x.webp" />
+                <u>X</u>
             </div>
         </a>
-        <a href="https://github.com/DonChiaQE" target="_blank">
+        <a href="https://github.com/The-Peacemaker" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/iPhone-Icons/Github.webp" />
                 <u>G</u>itHub
             </div>
         </a>
         <div class="divider"></div>
-        <a href="/files/don_chia_resume.pdf" target="_blank">
+        <a href="/files/Benedict_Resume.pdf" target="_blank">
             <div class="bar">
                 <img class="social-image" src="@/assets/win95Icons/resume.png" />
                 <u>R</u>ésumé
             </div>
         </a>
-        <a href="https://apps.apple.com/app/nossaflex/id1523558285" target="_blank">
+        <a href="https://hackerone.com/cyber_ben" target="_blank">
             <div class="bar">
-                <img class="social-image" src="@/assets/iPhone-Icons/Nossaflex.webp" />
-                <u>N</u>OSSAFLEX
+                <img class="social-image" src="@/assets/iPhone-Icons/hackerone.png" />
+                <u>H</u>acker<u>O</u>ne
             </div>
         </a>
     </div>
