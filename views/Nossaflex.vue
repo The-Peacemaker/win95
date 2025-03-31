@@ -1,4 +1,5 @@
 <template>
+<!--
 <div>
     <img src="@/assets/Nossaflex/hero_light.webp" alt="NOSSAFLEX logo" class="hero" />
     <div class="inner-content">
@@ -97,6 +98,7 @@
     <br />
     <a href="https://www.nossaflex.io" style="color: #ff5733">NOSSAFLEX</a>
 </div>
+-->
 </template>
 
   

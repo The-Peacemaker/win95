@@ -1,4 +1,6 @@
+
 <template>
+  <!--
     <div>
       <img
         src="@/assets/Wwdc/ssc2021.jpg"
@@ -61,7 +63,10 @@
         />
       </div>
     </div>
+  -->
   </template>
+
+
   
   <style scoped>
   .hero {

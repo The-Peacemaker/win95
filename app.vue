@@ -155,7 +155,7 @@ h6 {
 ::-webkit-scrollbar {
   width: 15px;
   background: repeating-conic-gradient(
-      rgb(189, 190, 189) 0% 25%,
+      rgb(189, 189, 190) 0% 25%,
       rgb(255, 255, 255) 0% 50%
     )
     50% / 2px 2px;

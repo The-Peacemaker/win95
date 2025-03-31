@@ -1,4 +1,5 @@
 <template>
+    <!--
 <div>
     <img src="@/assets/Wwdc/ssc2022.jpg" alt="Swift Student Challenge" class="hero" />
     <div class="inner-content">
@@ -40,6 +41,7 @@
     <img src="@/assets/Wwdc/2022_4.jpg" class="images" />
     <h6 class="subtitle">Presentation at Apple Orchard Store</h6>
 </div>
+-->
 </template>
 
 <style scoped>

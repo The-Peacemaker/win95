@@ -11,6 +11,7 @@ const getImagePath = (img) => {
 </script>
 
 <template>
+    <!--
 <div>
     <img src="@/assets/Wwdc/wwdc_2023.jpg" alt="WWDC 2023" class="hero" />
     <div class="inner-content">
@@ -23,6 +24,7 @@ const getImagePath = (img) => {
         <img :src="getImagePath(`2023_${i}.jpeg`)" class="images-full mb-8" />
     </div>
 </div>
+-->
 </template>
 
 <style scoped>
